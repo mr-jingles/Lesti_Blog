@@ -5,7 +5,7 @@
   "description": "Simple blog for Magento",
   "homepage": "https://github.com/GordonLesti/Lesti_Blog",
   "require": {
-    "php": ">=5.4",
+    "php": ">=5.3",
     "magento-hackathon/magento-composer-installer": "*"
   },
   "authors": [
